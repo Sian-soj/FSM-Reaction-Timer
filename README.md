@@ -1,3 +1,12 @@
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/d9375363-5b4f-4146-ab84-6b9ea24d4748
+
+## Circuit Diagram
+
+<img width="732" height="638" alt="circuit diagram (2)" src="https://github.com/user-attachments/assets/f19e5734-71c7-4dd9-b8e8-cac88dfa7691" />
+
+
 # ⚡ FSM Reaction TImer (Arduino | FSM Learning Project)
 
 This project started as a **simple reaction timer idea** and evolved into a **deep dive into embedded systems fundamentals**.
