@@ -184,7 +184,7 @@ No state blocks execution.
 **Sian Soj**  (aka-me)
 
 Electronics & Communication Engineering Student  
-Exploring Embedded Systems, IoT, and Hardware Prototyping  
+Exploring Embedded Systems, IoT, and Hardware Prototyping!
 
 ---
 
