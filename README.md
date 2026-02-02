@@ -179,9 +179,9 @@ No state blocks execution.
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Build By
 
-**Sian Soj**  
+**Sian Soj**  (aka-me)
 Electronics & Communication Engineering Student  
 Exploring Embedded Systems, IoT, and Hardware Prototyping  
 
